@@ -11,7 +11,7 @@
 - Vue.js & Nuxt- APIs- Inteligência Artificial- LLMs- UI/UX moderno
 ---
 ## 📫 Contato
-- GitHub: https://github.com/SEU-USUARIO
+- GitHub:
 ---
 ⭐ Sempre aprendendo, evoluindo e criando.
 
