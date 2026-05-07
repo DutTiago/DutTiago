@@ -13,7 +13,7 @@
 ## 📫 Contato
 - GitHub:
 ---
-⭐ Sempre aprendendo, evoluindo e criando.
+  Sempre aprendendo, evoluindo e criando.
 
 <!--
 **DutTiago/DutTiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
