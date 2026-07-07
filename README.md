@@ -1,31 +1,43 @@
-# 👋 Olá, eu sou Tiago
-💻 Dev Júnior Front-End  🚀 Apaixonado por tecnologia, interfaces modernas e inteligência artificial  📚 Sempre aprendendo e construindo novos projetos
----
-## 🚀 Tecnologias & Ferramentas
-- HTML- CSS- JavaScript- Vue.js- Nuxt- Git & GitHub- IA & LLMs
----
-## 🎯 Objetivos
-- Evoluir como desenvolvedor Front-End- Criar aplicações modernas e inteligentes- Trabalhar com IA integrada ao desenvolvimento web- Construir projetos reais e escaláveis
----
-## 📈 Atualmente estudando
-- Vue.js & Nuxt- APIs- Inteligência Artificial- LLMs- UI/UX moderno
----
-## 📫 Contato
-- GitHub:
----
-  Sempre aprendendo, evoluindo e criando.
+# Oi, eu sou o Tiago
 
-<!--
-**DutTiago/DutTiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-End Junior, apaixonado por tecnologia, interfaces modernas e inteligencia artificial.
 
-Here are some ideas to get you started:
+Atualmente estudo e crio projetos com foco em aplicacoes web, boas interfaces e integracao com ferramentas de IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Conecte-se comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-DutTiago-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DutTiago)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-editar_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![Instagram](https://img.shields.io/badge/Instagram-editar_link-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
+[![Portfolio](https://img.shields.io/badge/Portfolio-editar_link-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-editar_email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@email.com)
+
+## Tecnologias e ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Em evolucao
+
+- Front-End moderno com Vue.js e Nuxt.
+- Aplicacoes web com interfaces limpas e responsivas.
+- Integracao de inteligencia artificial em projetos reais.
+- APIs, boas praticas e construcao de produtos escalaveis.
+
+## Meus commits em movimento
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DutTiago/DutTiago/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DutTiago/DutTiago/output/github-contribution-grid-snake.svg">
+  <img alt="Cobrinha comendo meus commits" src="https://raw.githubusercontent.com/DutTiago/DutTiago/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+Sempre aprendendo, evoluindo e criando.
