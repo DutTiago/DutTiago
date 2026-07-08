@@ -7,7 +7,7 @@ Atualmente estudo e crio projetos com foco em aplicacoes web, boas interfaces e 
 ## Conecte-se comigo
 
 [![GitHub](https://img.shields.io/badge/GitHub-DutTiago-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DutTiago)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-editar_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/DutTiago)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-editar_link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/duttiago)
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-editar_link-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-editar_link-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)-->
